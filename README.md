@@ -1,1 +1,1 @@
-# card_reveal
+# Hover on card to reveal content.
